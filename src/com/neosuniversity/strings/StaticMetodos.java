@@ -1,4 +1,6 @@
-package com.neosuniversity.strings;
+/**
+*ignore
+*/package com.neosuniversity.strings;
 
 public class StaticMetodos {
 
