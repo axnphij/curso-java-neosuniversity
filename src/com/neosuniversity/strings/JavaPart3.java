@@ -1,4 +1,6 @@
-package com.neosuniversity.strings;
+/**
+* documentacion
+*/package com.neosuniversity.strings;
 
 public class JavaPart3 {
 
